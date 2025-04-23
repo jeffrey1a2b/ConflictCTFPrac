@@ -10,7 +10,7 @@ def make_the_list_into_char_list(list):
     for i in range(len(list)):
         array.append(chr(int(list[i], base=16)))
     return array
-
+#222
 def reverse_the_list(list):
     array = []
     for i in range(len(list)):
